@@ -1,7 +1,7 @@
 # Geping-Chinese-Dataset
 本数据使用葛平utau采样，一首Deepvocal导出无参歌曲，一首Utau有参歌曲，一首初版Diffsinger无参歌曲组成
 制作Diffsinger已经获得授权，根据新葛平音源授权许可，决定对训练数据进行公开。
-公开数据包括，HTK标注文件，TextGrid标注文件，拼音lab文件，采样文件。
+公开数据包括，HTK标注文件，TextGrid标注文件，采样文件。
 使用此数据请遵循新葛平相关规约，如果发布个人训练的新葛平Diffsinger音源请保证已经获得相关授权
 
 新葛平音源授权许可
